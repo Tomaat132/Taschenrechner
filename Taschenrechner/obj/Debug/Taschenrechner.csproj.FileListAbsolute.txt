@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+E:\Visual Studio Projects\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+E:\Visual Studio Projects\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+E:\Visual Studio Projects\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+E:\Visual Studio Projects\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
