@@ -1,0 +1,8 @@
+c:\users\r4wfr\documents\visual studio 2015\Projects\MathHelper\Test\bin\Debug\Test.exe.config
+c:\users\r4wfr\documents\visual studio 2015\Projects\MathHelper\Test\bin\Debug\Test.exe
+c:\users\r4wfr\documents\visual studio 2015\Projects\MathHelper\Test\bin\Debug\Test.pdb
+c:\users\r4wfr\documents\visual studio 2015\Projects\MathHelper\Test\bin\Debug\MathHelper.dll
+c:\users\r4wfr\documents\visual studio 2015\Projects\MathHelper\Test\bin\Debug\MathHelper.pdb
+c:\users\r4wfr\documents\visual studio 2015\Projects\MathHelper\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\r4wfr\documents\visual studio 2015\Projects\MathHelper\Test\obj\Debug\Test.exe
+c:\users\r4wfr\documents\visual studio 2015\Projects\MathHelper\Test\obj\Debug\Test.pdb
